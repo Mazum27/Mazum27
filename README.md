@@ -14,13 +14,7 @@ I'm a passionate Fullstack Developer with a focus on creating scalable and effic
 - Message Queue: RabbitMQ, Sidekiq
 - Other: Redux
 
-## Current Work
 
-I'm currently involved in [briefly describe your current projects or responsibilities].
-
-## Open Source Contributions
-
-I'm an advocate for open source and have contributed to [mention any notable open source projects you've contributed to].
 
 ## Let's Connect
 
